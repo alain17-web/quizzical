@@ -38,3 +38,48 @@ body {
   background: #DEEBF8;
   border-radius: 45%;
 }
+
+.intro {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+
+.title {
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.2rem;
+  line-height: 2.5rem;
+  text-align: center;
+  color: #293264;
+}
+
+.description {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 1.3rem;
+  text-align: center;
+  color: #293264;
+}
+
+.start {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  width: 193px;
+  height: 52px;
+  background-color: #4D5B9E;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  color: #F5F7FB;
+  border-radius: 9px;
+  margin-top: 2rem;
+}
