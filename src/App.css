@@ -82,4 +82,5 @@ body {
   color: #F5F7FB;
   border-radius: 9px;
   margin-top: 2rem;
+  cursor: pointer;
 }
